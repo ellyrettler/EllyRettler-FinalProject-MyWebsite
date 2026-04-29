@@ -320,3 +320,7 @@ nav {
             color: #4a2c2c;
             margin-bottom: 24px;
         }
+
+        .creditslist {
+            text-decoration: none;
+        }
