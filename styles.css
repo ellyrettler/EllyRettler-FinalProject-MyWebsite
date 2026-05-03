@@ -322,5 +322,10 @@ nav {
         }
 
         .creditslist {
-            text-decoration: none;
+            list-style-type: none;
+            padding: 50px;
+        }
+
+        .credits-header{
+            padding: 50px 80px 00px 50px;
         }
